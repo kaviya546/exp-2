@@ -43,7 +43,9 @@ Step 5:
 ● Connect to the Linux instance using SSH.  
 ● Connect to the Windows instance using RDP.  
 ## Output:  
-![image](https://github.com/user-attachments/assets/e708d0d0-0664-4993-84f2-ddac5ad2529c)
+
+![image](https://github.com/user-attachments/assets/30224a3b-88e6-462b-b369-585fbf9739e7)
+
 
 ## Result:  
 Successfully created an S3 bucket and EC2 instances for both Linux and Windows, 
